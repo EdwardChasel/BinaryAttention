@@ -14,7 +14,7 @@
 	(†) corresponding author
 </div>
 
-[[📝 arXiv paper]](https://arxiv.org/abs/xxx)
+[[📝 arXiv paper]](https://arxiv.org/abs/2603.09582)
 
 ---
 
