@@ -14,7 +14,7 @@
 	(†) corresponding author
 </div>
 
-[[📝 arXiv paper]](https://arxiv.org/abs/2603.09582)
+[[📝 arXiv paper]](https://arxiv.org/abs/2603.09582) &nbsp; [[🤗 Hugging Face]](https://huggingface.co/EdwardChasel/BinaryAttention)
 
 ---
 
@@ -81,6 +81,7 @@ pip install -r requirements.txt
 <summary> ImageNet-1k Image Classification </summary>
 <br>
 
+[![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-model%20weights-blue)](https://huggingface.co/EdwardChasel/BinaryAttention/tree/main/checkpoints)
 <div>
 
 |      name      |   pretrain   | resolution | acc@1 | #param | OPs|                                                                             download                                                                              |
@@ -146,7 +147,7 @@ python main.py --eval --resume </path/of/checkpoint> --data-path </path/of/datas
 
 ```BibTeX
 @inproceedings{xiao2026binary,
-  title={Binary{A}ttention: One-Bit QK-Attention for Vision and Diffusion Transformers},
+  title={BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers},
   author={Xiao, Chaodong and Zhang, Zhengqiang and Zhang, Lei},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026}
